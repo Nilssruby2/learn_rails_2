@@ -1,0 +1,5 @@
+export GMAIL_USERNAME="Nillss.ruby2@gmail.com"
+export GMAIL_PASSWORD = "P1zz4g00d" 
+export MAILCHIMP_API_KEY = "696e45be82ac4439ae33fb738f12d2b1-us12"
+export MAILCHIMP_LIST_ID = "0f3ea536ef"
+export OWNER_EMAIL = "Nillss.ruby2@gmail.com"
